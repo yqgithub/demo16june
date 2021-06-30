@@ -13,7 +13,7 @@ HELLO
 ### ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/yqgithub/demo16june/blob/681c7dcde6718f79d9e1a0063845e801c42ee62b/images/download.png)
+![alt text](https://github.com/yqgithub/demo16june/blob/681c7dcde6718f79d9e1a0063845e801c42ee62b/images/download.PNG)
 
 <!-- Add your details -->
 
