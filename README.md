@@ -3,10 +3,10 @@ HELLO
 ### CONTACT
 
 <!-- Add your details -->
-✉️: email_id@xxxxx.com 
-&nbsp;&nbsp; 📲 +91-XXXXXXXXXX
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kumar-vishwesh-8b059170/) 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Website](https://datasciencestunt.com/)
+✉️: limyeqin91@hotmail.com 
+&nbsp;&nbsp; 📲 +65 9752 2266
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/ye-qin-lim-9810a685/) 
+
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
